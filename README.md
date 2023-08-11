@@ -2,11 +2,13 @@
 
 Evapotranspiration Web App — ( team project )
 
+This is a website which is capable of calculating evapotranspiration of any place in the world with just inputing name of place and minimal data.<br>
+This was our group project. <br>
+In this project first of all we researched how to calculate evapotranspiration using `Penman-Monteith` equation for this we used `FAO 56` research paper.
+Then we converted it into a working code to minimise the inputs we used APIs to fetch data according to place. 
+Then we computed the result on the basis of data fetched and showed on the ui using dom manipulation.
 
 
-Learnings -> API (how to fetch the data using fetch request),
-Dom-manipulation ,Javascript, J-Query and to effectively search errors and
-resolve them
 
 # API used
 
@@ -27,18 +29,17 @@ place from it’s name.
 
  ## Learnings
 
-  --> Javascript setInterval() <br>
-  --> Javascript clearInterval() <br>
-  --> Javascript functions <br>
-  --> dom manipulation <br>
-  --> event listeners <br>
-  --> javascript selectors <br>
-  --> javascript classList <br>
-  --> Html <br>
-  --> Css animation <br>
-  --> Css <br>
+ - APIs
+ - Javascript Fetch
+ - Asynchronous Programming
+ - Data Processing
+ - Dom-manipulation
+ - J-query
+ - Effective error resolving
+ - Html
+ - css
+  
 
   ## Screen-shots
 
-![Screenshot 2023-07-27 165053](https://github.com/MaheshRautrao/Javascript-alien-shooter-game/assets/101188065/c95452e1-a955-40b7-b827-32fc833a44a2)
-![Screenshot 2023-07-27 165102](https://github.com/MaheshRautrao/Javascript-alien-shooter-game/assets/101188065/d803a87f-bca5-44e4-a8b7-f8c082725f7c)
+
